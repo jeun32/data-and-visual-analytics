@@ -1,5 +1,5 @@
-## 📁 Simulation (Summer 2026)
-Georgia Tech Master of Science in Analytics — ISYE 6644
+## 📁 Data and Visual Analytics (Fall 2026)
+Georgia Tech Master of Science in Analytics — CSE 6242
 
 ---
 
